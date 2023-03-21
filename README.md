@@ -1,0 +1,2 @@
+# RosmsgsToBinAndPCD
+将rosbag中的点云信息转换成pcd和bin的文件形式

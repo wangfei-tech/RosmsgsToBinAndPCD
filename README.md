@@ -29,4 +29,7 @@ boost1.7.1
 
 `rosrun *** ****`
 
+# cite
+
+https://answers.ros.org/question/307881/failed-to-find-match-for-field-intensity-with-ouster-lidar/
 
